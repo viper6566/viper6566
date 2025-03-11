@@ -7,8 +7,25 @@
   
 <h2>Certifications</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
+- CompTIA Security+ – Cybersecurity Fundamentals & Risk Management
 
+- CompTIA CySA+ – Threat Detection, Incident Response & Security Analytics
+
+- CompTIA PenTest+ – Penetration Testing & Vulnerability Exploitation
+
+- CompTIA Network+ – Network Security & Infrastructure Management
+
+- CompTIA A+ – IT Support, Hardware, and Troubleshooting
+
+- TCM OSINT Certification – Open-Source Intelligence & Digital Investigations
+
+- SOC Level 1 – Security Operations Center Monitoring & Threat Detection
+
+- Jr Penetration Tester – Offensive Security & Exploitation Techniques
+
+- Pre Security, Introduction to Cyber Security, Cyber Security 101 (TryHackMe) – Cybersecurity Fundamentals
+
+- TryHackMe Security Engineer (In Progress) – Advanced Security Engineering
 
 
 <h2> 🤳 Connect with me:</h2>
