@@ -11,8 +11,6 @@
 
 - CompTIA CySA+ – Threat Detection, Incident Response & Security Analytics
 
-- CompTIA PenTest+ – Penetration Testing & Vulnerability Exploitation
-
 - CompTIA Network+ – Network Security & Infrastructure Management
 
 - CompTIA A+ – IT Support, Hardware, and Troubleshooting
